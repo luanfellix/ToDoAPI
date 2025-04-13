@@ -1,6 +1,6 @@
 # ToDo CLI + API
 
-Este projeto é uma aplicação de gerenciamento de tarefas feita em C#, feito apenas com intuito de práticar. E com funcionalidades de adicionar, editar, listar e deletar tarefas. Os dados são salvos em um arquivo JSON simulando um banco de dados local, e integrados a uma API q escuta na porta 5050.
+Esse projeto é uma aplicação de gerenciamento de tarefas feita em C#, feito apenas com intuito de práticar. E com funcionalidades de adicionar, editar, listar e deletar tarefas. Os dados são salvos em um arquivo JSON simulando um banco de dados local, e integrados a uma API q escuta na porta 5050.
 
 ## Funcionalidades
 
