@@ -12,5 +12,5 @@ Esse projeto é uma aplicação de gerenciamento de tarefas feita em C#, feito a
 
 ## Como executar
 
-1. Clone o repositório
-2- E execute o código
+1. clone o repositório
+2- compile e execute o código
